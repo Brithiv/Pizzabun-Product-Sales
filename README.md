@@ -1,4 +1,11 @@
-# 🍕 Pizzabun Product Sales Dashboard
+<h1 align="center"> 🍕 Pizzabun Product Sales Dashboard </h1>
+
+<hr>
+
+<h2>🔗 Interactive Power BI Dashboard</h2>
+<p><a href="https://1drv.ms/x/c/44d563db87dd469e/IQS36elHL1jDTLkIXt-wwQfOAWY8bUQO4ywsnJg-EJBLOOA" width="402" height="346" frameborder="0" scrolling="no" target="_blank"><strong>Link to interactive dashboard</strong></a>.</p>
+
+<hr>
 
 ## 📊 Project Overview
 The **Pizzabun Product Sales Dashboard** is a data analysis project aimed at understanding the sales performance of a fictional pizza brand, "Pizzabun." Using sales data, the project calculates key metrics such as total orders, total sales, total revenue, average revenue, and identifies the most ordered product. The data is visualized using interactive charts, offering insights into the company's sales trends and performance.
